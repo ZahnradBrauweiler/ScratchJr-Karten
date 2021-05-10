@@ -4,3 +4,5 @@ Karten (deutsch) für ScratchJr
 Ein Satz von Karten für ScratchJr (http://scratchjr.org/). Damit können Einsteiger (hoffentlich) die Grundlagen dieser Programmier-App erlernen.
 
 ScratchJr is a product of Scratch Foundation and DevTech Research Group
+
+[License: CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) Harald Walz
